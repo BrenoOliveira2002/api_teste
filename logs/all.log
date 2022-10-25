@@ -1,0 +1,798 @@
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [35mhttp[39m : [35mGET /api/teste 200 11 - 3.880 ms[39m
+[35m[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [35mhttp[39m : [35mGET /api/movie 404 148 - 4.775 ms[39m
+[35m[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [35mhttp[39m : [35mPOST /api/movie 200 22 - 2.552 ms[39m
+[35m[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [31merror[39m : [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+{info.timestamp} - [35mhttp[39m : [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+{info.timestamp} - [31merror[39m : [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+{info.timestamp} - [35mhttp[39m : [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+{info.timestamp} - [31merror[39m : [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+{info.timestamp} - [35mhttp[39m : [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+{info.timestamp} - [31merror[39m : [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [31merror[39m : [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [31merror[39m : [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+{info.timestamp} - [35mhttp[39m : [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+{info.timestamp} - [35mhttp[39m : [35mPOST /api/teste 404 149 - 1.809 ms[39m
+[35m[39m
+{info.timestamp} - [35mhttp[39m : [35mGET /api/teste 200 11 - 1.515 ms[39m
+[35m[39m
+{info.timestamp} - [35mhttp[39m : [35mPOST /api/teste 404 149 - 0.414 ms[39m
+[35m[39m
+{info.timestamp} - [31merror[39m : [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+{info.timestamp} - [35mhttp[39m : [35mPOST /movie 404 145 - 0.336 ms[39m
+[35m[39m
+{info.timestamp} - [31merror[39m : [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+{info.timestamp} - [35mhttp[39m : [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [31merror[39m : [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+{info.timestamp} - [35mhttp[39m : [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+{info.timestamp} - [31merror[39m : [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [31merror[39m : [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+{info.timestamp} - [35mhttp[39m : [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+{info.timestamp} - [31merror[39m : [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+{info.timestamp} - [35mhttp[39m : [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+{info.timestamp} - [31merror[39m : [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+{info.timestamp} - [35mhttp[39m : [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+{info.timestamp} - [35mhttp[39m : [35mPOST /api/movie 201 145 - 18.089 ms[39m
+[35m[39m
+{info.timestamp} - [35mhttp[39m : [35mGET /api/teste 200 11 - 3.054 ms[39m
+[35m[39m
+{info.timestamp} - [35mhttp[39m : [35mGET /favicon.ico 404 150 - 1.440 ms[39m
+[35m[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [35mhttp[39m : [35mPOST /api/movie 201 151 - 56.992 ms[39m
+[35m[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [35mhttp[39m : [35mPOST /api/movie 422 49 - 15.589 ms[39m
+[35m[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [35mhttp[39m : [35mPOST /api/movie 201 227 - 60.192 ms[39m
+[35m[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [35mhttp[39m : [35mPOST /api/movie 201 230 - 52.048 ms[39m
+[35m[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [35mhttp[39m : [35mGET /api/movie/63574b7eca6adc2b1178ff00 200 230 - 21.946 ms[39m
+[35m[39m
+{info.timestamp} - [35mhttp[39m : [35mGET /api/movie/63574b7eca6adc2b1178ff00 200 230 - 9.385 ms[39m
+[35m[39m
+{info.timestamp} - [35mhttp[39m : [35mGET /api/movie/63574b7eca6adc2b1178ff00 200 230 - 8.682 ms[39m
+[35m[39m
+{info.timestamp} - [35mhttp[39m : [35mGET /api/movie/63574b7eca6adc2b1178ff01 404 30 - 8.709 ms[39m
+[35m[39m
+{info.timestamp} - [35mhttp[39m : [35mGET /api/movie/63574b7eca6adc2b1178ff00 200 230 - 9.249 ms[39m
+[35m[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [35mhttp[39m : [35mGET /api/movie 200 758 - 22.978 ms[39m
+[35m[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [35mhttp[39m : [35mDELETE /api/movie/635745a983453cad1a33b80a - - - - ms[39m
+[35m[39m
+{info.timestamp} - [35mhttp[39m : [35mGET /api/movie 200 758 - 12.189 ms[39m
+[35m[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [35mhttp[39m : [35mDELETE /api/movie/635745a983453cad1a33b80a - - - - ms[39m
+[35m[39m
+{info.timestamp} - [35mhttp[39m : [35mGET /api/movie/635745a983453cad1a33b80a 200 151 - 11.630 ms[39m
+[35m[39m
+{info.timestamp} - [31merror[39m : [31mErro no sistema: Cast to ObjectId failed for value "635745a983453cad1a33b80a3" (type string) at path "_id" for model "Movie"[39m
+{info.timestamp} - [35mhttp[39m : [35mDELETE /api/movie/635745a983453cad1a33b80a3 500 40 - 2.291 ms[39m
+[35m[39m
+{info.timestamp} - [35mhttp[39m : [35mDELETE /api/movie/635745a983453cad1a33b80a - - - - ms[39m
+[35m[39m
+{info.timestamp} - [31merror[39m : [31mErro no sistema: Cast to ObjectId failed for value "635745a983453cad1a33b80aa" (type string) at path "_id" for model "Movie"[39m
+{info.timestamp} - [35mhttp[39m : [35mDELETE /api/movie/635745a983453cad1a33b80aa 500 40 - 1.055 ms[39m
+[35m[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [31merror[39m : [31mErro no sistema: Cast to ObjectId failed for value "635745a983453cad1a33b80aa" (type string) at path "_id" for model "Movie"[39m
+{info.timestamp} - [35mhttp[39m : [35mDELETE /api/movie/635745a983453cad1a33b80aa 500 40 - 14.619 ms[39m
+[35m[39m
+{info.timestamp} - [31merror[39m : [31mErro no sistema: Cast to ObjectId failed for value "635745a983453cad1a33b80aa" (type string) at path "_id" for model "Movie"[39m
+{info.timestamp} - [35mhttp[39m : [35mDELETE /api/movie/635745a983453cad1a33b80aa 500 40 - 2.664 ms[39m
+[35m[39m
+{info.timestamp} - [31merror[39m : [31mErro no sistema: Cast to ObjectId failed for value "635745a983453cad1a33b80" (type string) at path "_id" for model "Movie"[39m
+{info.timestamp} - [35mhttp[39m : [35mDELETE /api/movie/635745a983453cad1a33b80 500 40 - 2.610 ms[39m
+[35m[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [35mhttp[39m : [35mGET /api/movie 200 758 - 22.996 ms[39m
+[35m[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [35mhttp[39m : [35mDELETE /api/movie/635745a983453cad1a33b80a 404 30 - 24.047 ms[39m
+[35m[39m
+{info.timestamp} - [35mhttp[39m : [35mGET /api/movie 200 606 - 14.195 ms[39m
+[35m[39m
+{info.timestamp} - [35mhttp[39m : [35mDELETE /api/movie/6356fa2307106f8832cd9cc6 200 36 - 22.015 ms[39m
+[35m[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [35mhttp[39m : [35mGET /api/movie 200 460 - 24.833 ms[39m
+[35m[39m
+{info.timestamp} - [35mhttp[39m : [35mPATCH /api/movie/63574a3d46afc52fd8c7de98 200 227 - 24.753 ms[39m
+[35m[39m
+{info.timestamp} - [35mhttp[39m : [35mGET /api/movie 200 460 - 13.409 ms[39m
+[35m[39m
+{info.timestamp} - [35mhttp[39m : [35mGET /api/movie 200 460 - 12.259 ms[39m
+[35m[39m
+{info.timestamp} - [35mhttp[39m : [35mGET /api/movie 200 460 - 11.910 ms[39m
+[35m[39m
+{info.timestamp} - [35mhttp[39m : [35mPATCH /api/movie/63574a3d46afc52fd8c7de98 200 227 - 10.302 ms[39m
+[35m[39m
+{info.timestamp} - [31merror[39m : [31mErro no sistema: Cast to ObjectId failed for value "63574a3d46afc52fd8c7de98a" (type string) at path "_id" for model "Movie"[39m
+{info.timestamp} - [35mhttp[39m : [35mPATCH /api/movie/63574a3d46afc52fd8c7de98a 500 40 - 2.094 ms[39m
+[35m[39m
+{info.timestamp} - [35mhttp[39m : [35mPATCH /api/movie/63574a3d46afc52fd8c7de98 200 227 - 11.007 ms[39m
+[35m[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [35mhttp[39m : [35mPATCH /api/movie/63574a3d46afc52fd8c7de98 200 15 - 67.170 ms[39m
+[35m[39m
+{info.timestamp} - [35mhttp[39m : [35mGET /api/movie 200 445 - 13.277 ms[39m
+[35m[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m
+{info.timestamp} - [32minfo[39m : [32mConectou ao banco de dados[39m
+{info.timestamp} - [32minfo[39m : [32mAplicação funcionando na porta: 3000[39m

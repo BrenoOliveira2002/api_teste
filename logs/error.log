@@ -1,0 +1,19 @@
+{info.timestamp} - [31merror[39m : [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+{info.timestamp} - [31merror[39m : [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+{info.timestamp} - [31merror[39m : [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+{info.timestamp} - [31merror[39m : [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+{info.timestamp} - [31merror[39m : [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+{info.timestamp} - [31merror[39m : [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+{info.timestamp} - [31merror[39m : [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+{info.timestamp} - [31merror[39m : [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+{info.timestamp} - [31merror[39m : [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+{info.timestamp} - [31merror[39m : [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+{info.timestamp} - [31merror[39m : [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+{info.timestamp} - [31merror[39m : [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+{info.timestamp} - [31merror[39m : [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+{info.timestamp} - [31merror[39m : [31mErro no sistema: Cast to ObjectId failed for value "635745a983453cad1a33b80a3" (type string) at path "_id" for model "Movie"[39m
+{info.timestamp} - [31merror[39m : [31mErro no sistema: Cast to ObjectId failed for value "635745a983453cad1a33b80aa" (type string) at path "_id" for model "Movie"[39m
+{info.timestamp} - [31merror[39m : [31mErro no sistema: Cast to ObjectId failed for value "635745a983453cad1a33b80aa" (type string) at path "_id" for model "Movie"[39m
+{info.timestamp} - [31merror[39m : [31mErro no sistema: Cast to ObjectId failed for value "635745a983453cad1a33b80aa" (type string) at path "_id" for model "Movie"[39m
+{info.timestamp} - [31merror[39m : [31mErro no sistema: Cast to ObjectId failed for value "635745a983453cad1a33b80" (type string) at path "_id" for model "Movie"[39m
+{info.timestamp} - [31merror[39m : [31mErro no sistema: Cast to ObjectId failed for value "63574a3d46afc52fd8c7de98a" (type string) at path "_id" for model "Movie"[39m
